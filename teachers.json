@@ -1,0 +1,44 @@
+[
+  {
+    "first_name": "Олександр",
+    "last_name": "Іваненко",
+    "age": 45,
+    "email": "o.ivanenko@example.com",
+    "by_subject": ["Математика", "Фізика"]
+  },
+  {
+    "first_name": "Марія",
+    "last_name": "Петренко",
+    "age": 38,
+    "email": "m.petrenko@example.com",
+    "by_subject": ["Хімія"]
+  },
+  {
+    "first_name": "Сергій",
+    "last_name": "Коваленко",
+    "age": 50,
+    "email": "s.kovalenko@example.com",
+    "by_subject": ["Інформатика", "Математика"]
+  },
+  {
+    "first_name": "Наталія",
+    "last_name": "Шевченко",
+    "age": 29,
+    "email": "n.shevchenko@example.com",
+    "by_subject": ["Біологія", "Хімія"]
+  },
+  {
+    "first_name": "Дмитро",
+    "last_name": "Бондаренко",
+    "age": 35,
+    "email": "d.bondarenko@example.com",
+    "by_subject": ["Фізика", "Інформатика"]
+  },
+  {
+    "first_name": "Олена",
+    "last_name": "Гриценко",
+    "age": 42,
+    "email": "o.grytsenko@example.com",
+    "by_subject": ["Біологія"]
+  }
+]
